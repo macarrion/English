@@ -1,0 +1,62 @@
+
+
+body {
+    background: url(../images/IMG-9121.jpg);
+}
+
+h4 {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    opacity: 0.75;
+    width: 250px;
+}
+
+p.one {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    opacity: 0.75;
+    width: 1450px;
+    font-family: Arial;
+    padding: 20px;
+
+}
+
+p.two {
+    font-size: 20px;
+    color: white;
+    width: 1450px;
+    font-family: Arial;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 375px;
+}
+
+p.three {
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    opacity: 0.75;
+    width: 615px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 450px;
+    padding: 15px;
+}
+
+p.four {
+    width: 615px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    margin-left: 600px;
+    padding: 15px;
+}
+
+ul {
+    font-size: 18px;
+    color: white;
+    opacity: 0.75;
+    background-color: black;
+    width: 600px;
+}
